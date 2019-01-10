@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<tile>
+  <visual branding="name">
+
+    <binding template="TileSmall">
+      <text hint-style="caption">Small</text>
+      <text hint-style="captionSubtle">Task</text>
+      <image src="Assets/backgroundone.jpg" placement="background"></image>
+    </binding>
+
+    <binding template="TileMedium">
+      <text hint-style="caption">Medium</text>
+      <text hint-style="captionSubtle">Task</text>
+      <image src="Assets/backgroundone.jpg" placement="background"></image>
+    </binding>
+
+    <binding template="TileWide">
+      <text hint-style="caption">Wide</text>
+      <text hint-style="captionSubtle">Task</text>
+      <image src="Assets/backgroundone.jpg" placement="background"></image>
+    </binding>
+
+    <binding template="TileLarge">
+      <text hint-style="caption">Large</text>
+      <text hint-style="captionSubtle">Task</text>
+      <image src="Assets/backgroundone.jpg" placement="background"></image>
+    </binding>
+
+  </visual>
+</tile>
